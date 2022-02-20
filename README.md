@@ -1,5 +1,5 @@
 # Tensorflow Object Detection Walkthrough
-These notebooks demonstrate how to leverage models from TensorFlow Model Zoo to do object detection. <a href="https://github.com/nicknochnack/TFODCourse"></a>. 
+These notebooks demonstrate how to leverage models from TensorFlow Model Zoo to do object detection. It's based on this <a href="https://github.com/nicknochnack/TFODCourse">repo</a>.
 
 ## Steps
 <br />
